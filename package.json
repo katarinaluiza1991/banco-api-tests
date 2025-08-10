@@ -11,7 +11,10 @@
   "description": "",
   "dependencies": {
     "chai": "^5.2.1",
-    "mocha": "^11.7.1"
+    "do": "^0.7.0",
+    "dotenv": "^17.2.1",
+    "mocha": "^11.7.1",
+    "tenv": "^0.2.3"
   },
   "devDependencies": {
     "mochawesome": "^7.1.3",
